@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # -*- coding:Utf8 -*-
-# arnpi@myopera.com
+# arnpi@gmx.com
 # Date: 26/03/2013
 VERSION = 0.1
 PROGRAMME = "wxRIM"
