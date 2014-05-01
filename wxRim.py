@@ -2,7 +2,7 @@
 # -*- coding:Utf8 -*-
 # arnpi@gmx.com
 # Date: 26/03/2013
-VERSION = 0.1
+VERSION = 0.1 
 PROGRAMME = "wxRIM"
 
 """
